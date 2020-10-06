@@ -875,7 +875,7 @@ margin-top: 5px;
 @media screen and (max-width: 780px){
 
 .box1{
-  margin-top: 12%;
+  margin-top: 8%;
   width: 57%;
   height: 285px;
   border: 3px solid #40a8c4;
@@ -891,7 +891,7 @@ margin-top: 5px;
   animation: rotating 5s ease infinite ;
 }
 .content{
-  margin-top: -65%;
+  margin-top: -75%;
   width: 75%;
   height: 350px;
 }
