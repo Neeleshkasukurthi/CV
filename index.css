@@ -828,7 +828,7 @@ margin-top: 5px;
 
 
 
-
+/*
 .box1{
   margin-top: 10%;
   width: 30%;
@@ -864,7 +864,7 @@ margin-top: 5px;
     transform: rotate(405deg);
   }
 }
-
+*/
 .content{
   margin-top: -27%;
   width: 20%;
@@ -873,7 +873,7 @@ margin-top: 5px;
 
 
 @media screen and (max-width: 780px){
-
+/*
 .box1{
   margin-top: 15%;
   width: 57%;
@@ -890,6 +890,7 @@ margin-top: 5px;
   transform: rotate(45deg);
   animation: rotating 5s ease infinite ;
 }
+*/
 .content{
   margin-top: -75%;
   width: 75%;
